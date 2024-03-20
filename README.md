@@ -29,26 +29,7 @@ Un saludo.
 
 
 1.  **Datos**
-```json
-{
-  "Frutas": [
-    {
-      "NombreFruta": "Manzana",
-      "cantidad": 10
-    },
-    {
-      "NombreFruta": "Pera",
-      "cantidad": 20
-    },
-    {
-      "NombreFruta": "Naranja",
-      "cantidad": 30
-    }
-  ]
-}
-```
 
-Una vez explicado el funcionamiento de la sintaxis **JSON**, vamos a aplicar nuestro ejemplo de la frutería.
 ```json
 
 
